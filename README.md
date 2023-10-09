@@ -10,23 +10,7 @@ ToolsName:
 5. OpenVAS (now called Greenbone Vulnerability Management GVM): An open-source vulnerability scanner that can be used to scan web applications and networks. -[OpenVAS](https://www.openvas.org/)
 
 6. OWASP ZAP (Zed Attack Proxy): This is a web application security scanner that can be used to identify vulnerabilities such as SQL injection, XSS, and CSRF. -[OWASP ZAP](https://www.zaproxy.org/)
-
-8. Nikto: -This tool is a web vulnerability scanner - [Nikto](https://cirt.net/Nikto2)
-
-9. Google Tsunami Security Scanner: Tsunami is a network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence. - [GoogleTsunamiSecurityScanner](https://github.com/google/tsunami-security-scanner)
-
-10. Nessus: This tool is used vulnerability Scanner for various platforms. - [Nessus](https://www.tenable.com/products/nessus)
-
-11. Acunetix: A web vulnerability scanner used to detect security flaws in web applications. - [Acunetix](https://www.acunetix.com/)
-
-12. Shodan: It is a search engine that helps find specific devices connected to the internet, revealing open ports, exposed services, and potential vulnerabilities. - [Shodan](https://www.shodan.io/)
-
-13. Angry IP Scanner: A fast and lightweight IP address and port scanner. - [AngryIPScanner](https://angryip.org/)
-
-14. Snort: An open-source intrusion detection system (IDS) and network intrusion prevention system (IPS). - [Snort](https://www.snort.org/)
-
-15. Aircrack-ng: It captures the data packets and uses the same for recovery
-of 802.11 WEP and WPA-PSK keys. - [Aircrack-ng](http://www.aircrack-ng.org/)
+N and WPA-PSK keys. - [Aircrack-ng](http://www.aircrack-ng.org/)
 
 16. Nagios: It is an open-source monitoring tool that helps keep track of the health and performance of IT infrastructure. - [Nagios](https://www.nagios.org/)
 
